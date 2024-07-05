@@ -2,6 +2,7 @@
 '''Module for handling lockboxes.
 '''
 
+
 def canUnlockAll(boxes):
     '''Determines if all boxes in a list of boxes containing keys
     (indices) to other boxes can be unlocked, starting with the first
